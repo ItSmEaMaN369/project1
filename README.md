@@ -1,2 +1,2 @@
-html and css 
+Preview
 https://itsmeaman369.github.io/project1/
